@@ -8,9 +8,9 @@ Hi there! 👋 I'm Nandini, a driven Full-Stack Developer, Open-Source Contribut
 
 -🔭 Current Projects:
 
-    -Developing a Service Scheduling Platform using Node.js, Express, and MongoDB to manage real-time service bookings.
-    -Built a Dynamic QR Code Attendance System using Node.js and React for secure event check-ins.
-    -Leading the SciTech Club at IIIT Raichur to build tech projects and foster peer learning.
+-Developing a Service Scheduling Platform using Node.js, Express, and MongoDB to manage real-time service bookings.
+-Built a Dynamic QR Code Attendance System using Node.js and React for secure event check-ins.
+-Leading the SciTech Club at IIIT Raichur to build tech projects and foster peer learning.
 
 -🌱 Currently Learning:
 
