@@ -1,10 +1,10 @@
-🌟 Hi there, I'm Nandini Raj👋
+### 🌟 Hi there, I'm Nandini Raj👋
 ---
 Hi there! 👋 I'm Nandini, a driven Full-Stack Developer, Open-Source Contributor, and Tech Enthusiast. I’m currently pursuing a B.Tech in Computer Science and Engineering at IIIT Raichur, expected to graduate in May 2027. 🚀
 
 <hr style="height: 4px; background-color: #888; border: none;" />
 
-🌟 About Me
+### 🌟 About Me
 
 <ul>
   <li>🔭 <strong>Current Projects:</strong>
@@ -33,7 +33,7 @@ Hi there! 👋 I'm Nandini, a driven Full-Stack Developer, Open-Source Contribut
 <hr style="height: 4px; background-color: #888; border: none;" />
 
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Frameworks & Tools
 <br></br>
@@ -87,5 +87,5 @@ Tools & Platforms
 
 <hr style="height: 4px; background-color: #888; border: none;" />
 
-👩‍💻 Open to Opportunities
+### 👩‍💻 Open to Opportunities
 Looking for internship opportunities in Frontend/Full-Stack Development, DevOps, or Software Development. Let's build something impactful! 🚀
