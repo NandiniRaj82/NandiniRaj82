@@ -86,5 +86,6 @@ Tools & Platforms
 - 📧 [Email](nandiniraj175@gmail.com)
 
 <hr style="height: 4px; background-color: #888; border: none;" />
+
 👩‍💻 Open to Opportunities
 Looking for internship opportunities in Frontend/Full-Stack Development, DevOps, or Software Development. Let's build something impactful! 🚀
