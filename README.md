@@ -82,9 +82,9 @@ Tools & Platforms
 
 ### 📫 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/nandini-raj-iiit](https://www.linkedin.com/in/nandini-raj-6787242a1/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/nandini-raj-6787242a1/)
 - 📧 [Email](nandiniraj175@gmail.com)
 
-
+<hr style="height: 4px; background-color: #888; border: none;" />
 👩‍💻 Open to Opportunities
 Looking for internship opportunities in Frontend/Full-Stack Development, DevOps, or Software Development. Let's build something impactful! 🚀
