@@ -1,5 +1,5 @@
 🌟 Hi there, I'm Nandini Raj👋
-
+---
 Hi there! 👋 I'm Nandini, a driven Full-Stack Developer, Open-Source Contributor, and Tech Enthusiast. I’m currently pursuing a B.Tech in Computer Science and Engineering at IIIT Raichur, expected to graduate in May 2027. 🚀
 
 🌟 About Me
