@@ -6,22 +6,29 @@ Hi there! 👋 I'm Nandini, a driven Full-Stack Developer, Open-Source Contribut
 
 🌟 About Me
 
--🔭 Current Projects:
+<ul>
+  <li>🔭 <strong>Current Projects:</strong>
+    <ul>
+      <li><strong>Developing a Service Scheduling Platform</strong> using Node.js, Express, and MongoDB to manage real-time service bookings.</li>
+      <li><strong>Built a Dynamic QR Code Attendance System</strong> using Node.js and React for secure event check-ins.</li>
+      <li><strong>Leading the SciTech Club at IIIT Raichur</strong> to build tech projects and foster peer learning.</li>
+    </ul>
+  </li>
+  <li>🌱 <strong>Currently Learning:</strong>
+    <ul>
+      <li>Advanced concepts in React.js and TypeScript</li>
+      <li>System design patterns and scalable architecture</li>
+      <li>Next.js and real-time app development using Supabase and Firebase</li>
+    </ul>
+  </li>
+  <li>🤝 <strong>Collaboration Interests:</strong>
+    <ul>
+      <li>Open-source contributions and hackathons</li>
+      <li>Projects involving full-stack development, DevOps</li>
+    </ul>
+  </li>
+</ul>
 
-   -Developing a Service Scheduling Platform using Node.js, Express, and MongoDB to manage real-time service bookings.
--Built a Dynamic QR Code Attendance System using Node.js and React for secure event check-ins.
--Leading the SciTech Club at IIIT Raichur to build tech projects and foster peer learning.
-
--🌱 Currently Learning:
-
-    -Advanced concepts in React.js and TypeScript.
-    -System design patterns and scalable architecture.
-    -Next.js and real-time app development using Supabase and Firebase.
-
--🤝 Collaboration Interests:
-
-    -Open-source contributions and hackathons.
-    -Projects involving full-stack development, DevOps.
 
 <hr style="height: 4px; background-color: #888; border: none;" />
 
@@ -29,6 +36,7 @@ Hi there! 👋 I'm Nandini, a driven Full-Stack Developer, Open-Source Contribut
 🛠️ Tech Stack
 
 Frameworks & Tools
+<br></br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -41,6 +49,7 @@ Frameworks & Tools
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 Technologies
+<br></br>
 <img src="https://img.shields.io/badge/REST_API-00ADD8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -50,6 +59,7 @@ Technologies
 <img src="https://img.shields.io/badge/Linux_Command_Line-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 Programming Languages
+<br></br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -59,6 +69,7 @@ Programming Languages
 <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
 
 Tools & Platforms
+<br></br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -67,6 +78,7 @@ Tools & Platforms
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
+<hr style="height: 4px; background-color: #888; border: none;" />
 
 ### 📫 Connect with Me
 
